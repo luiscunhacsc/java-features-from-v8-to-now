@@ -1,5 +1,7 @@
 # Java: Evolução e Inovações (Versões 8 a 21)
 
+![Capa do Manual](capa-manual-java.png)
+
 Este repositório acompanha o manual **"Java: Evolução e Inovações (Versões 8 a 21)"**, licenciado sob [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Ele contém exemplos práticos de código abordando as principais melhorias introduzidas no Java desde a versão 8 até a 21.
 
 ## Sobre o Manual
