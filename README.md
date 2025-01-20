@@ -51,7 +51,7 @@ Cada capítulo do manual é representado por uma pasta neste repositório. Dentr
 ## Como Usar Este Repositório
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-evolucao-inovacoes.git
+   git clone https://github.com/luiscunhacsc/java-features-from-v8-to-now.git
    ```
 2. Navegue até o capítulo desejado:
    ```bash
